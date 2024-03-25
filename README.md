@@ -1,6 +1,6 @@
 # Dark Throne
 
-### From Teammates github page: https://github.com/esaltzherr
+### From Teammates github page: [https://github.com/esaltzherr](https://github.com/esaltzherr/Dark-Throne)
 ### Website: https://esaltzherr.github.io/Dark-Throne/website/
 
 ## About the Game
